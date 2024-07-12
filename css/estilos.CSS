@@ -1,0 +1,25 @@
+body {
+    backgroundColor: bisque;
+}
+header h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2rem;
+    text-align: center;
+}
+#fotografias {
+    margin: auto;
+    width: fit-content;
+}
+
+#fotografias img {
+    display: inline-bloc;
+    width: 200px;
+    margin: 20;
+}
+
+footer {
+    margin: auto;
+    width: fit-content;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2rem;
+}
